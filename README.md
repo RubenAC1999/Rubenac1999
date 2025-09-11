@@ -41,5 +41,4 @@ Recently graduated in Multiplatform Application Development (FP DAM), passionate
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
 </span>
 
-<h4> Github stats </h4>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RubenAC1999&theme=algolia" alt="RubenAC1999"  /></p>
+
