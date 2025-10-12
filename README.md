@@ -41,10 +41,4 @@ Recently graduated in Multiplatform Application Development (FP DAM), passionate
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
 </span>
 
-<h4> Git stats </h4>
-<img
-  alt="Profile details"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubenAC1999&theme=github_dark" />
-
-
 
