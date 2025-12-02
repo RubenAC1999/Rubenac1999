@@ -2,19 +2,17 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 <div align="center">
-   <h1>Hi, I'm <a href="https://hemant.codes">Rubén Agra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi, I'm <a href="https://hemant.codes">Rubén Agra</a> </h1>
 </div>
 
 &nbsp;***About me***
 
 Recently graduated in Multiplatform Application Development (FP DAM), passionate about backend development and software architecture. I love learning on my own and exploring new technologies, always looking to build something productive, innovative, and creative.
-- 🌱 I’m currently learning ...
+- I’m currently learning ...
   - Spring Boot
   - AWS
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help!😉<br>
 - Outside tech, 📖 I love to read, 🎮 playing videogames, 🎲 playing boardgames, and 🎵 listen to music.
-- 📫 Reach out to me at: <a href="rubenagra99@gmail.com">rubenagra99@gmail.com</a>
+- Reach out to me at: <a href="rubenagra99@gmail.com">rubenagra99@gmail.com</a>
 
 ## My Skills Include
 
