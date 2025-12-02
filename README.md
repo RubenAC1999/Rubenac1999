@@ -10,7 +10,7 @@
 Recently graduated in Multiplatform Application Development (FP DAM), passionate about backend development and software architecture. I love learning on my own and exploring new technologies, always looking to build something productive, innovative, and creative.
 - 🌱 I’m currently learning ...
   - Spring Boot
-  - PostgreSQL
+  - AWS
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😉<br>
 - Outside tech, 📖 I love to read, 🎮 playing videogames, 🎲 playing boardgames, and 🎵 listen to music.
