@@ -8,13 +8,6 @@
 &nbsp;***About me***
 
 Recently graduated in Multiplatform Application Development (FP DAM), passionate about backend development and software architecture. I love learning on my own and exploring new technologies, always looking to build something productive, innovative, and creative.
-- I’m currently learning ...
-  - Spring Boot
-  - AWS
-- Outside tech, 📖 I love to read, 🎮 playing videogames, 🎲 playing boardgames, and 🎵 listen to music.
-- Reach out to me at: <a href="rubenagra99@gmail.com">rubenagra99@gmail.com</a>
-
-## My Skills Include
 
 <h4> Languages </h4>
 <span> 
