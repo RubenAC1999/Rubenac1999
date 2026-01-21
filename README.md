@@ -16,4 +16,12 @@ Recently graduated in Multiplatform Application Development (FP DAM), passionate
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </span>
 
+<h4> Other technologies </h4>
+<span> 
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge">
+   <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge">
+</span>
+
 
