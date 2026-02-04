@@ -7,7 +7,7 @@
 
 &nbsp;***About me***
 
-Recently graduated in Multiplatform Application Development (FP DAM), passionate about backend development and software architecture. I love learning on my own and exploring new technologies, always looking to build something productive, innovative, and creative.
+Recently graduated in Multiplatform Application Development (FP DAM), passionate about backend development and software architecture. I enjoy learning independently and exploring new technologies from their foundations.
 
 <h4> Main Stack </h4>
 <span> 
@@ -23,5 +23,11 @@ Recently graduated in Multiplatform Application Development (FP DAM), passionate
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge">
    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge">
 </span>
+
+<h2> Current projects </h2>
+
+- ⚙️ [Company management API](https://github.com/RubenAC1999/spring-demo) - A well-designed API focused on core backend concepts and best practices.
+- 🕹️ [Game Tracker](https://github.com/RubenAC1999/proyectoFP) - An Android app letterboxd-like to track games.
+- 🔧 [ALDComputerService](https://github.com/RubenAC1999/AldComputerService) - Desktop application developed in Swing to manage a computer repair workshop.
 
 
