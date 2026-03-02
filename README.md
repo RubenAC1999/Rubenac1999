@@ -26,9 +26,10 @@ Recently graduated in Multiplatform Application Development (FP DAM), passionate
 
 <h2> Current projects </h2>
 
-- 🎮 [SaveSlot](https://github.com/RubenAC1999/save-slot) - Web and upgraded GameTracker app version. (Currently in development).
+- 🎮 [SaveSlot](https://github.com/RubenAC1999/save-slot) - An upgraded web version of the GameTracker app. (Currently in development).
 - ⚙️ [Company management API](https://github.com/RubenAC1999/spring-demo) - A well-designed API focused on core backend concepts and best practices.
-- 🕹️ [GameTracker](https://github.com/RubenAC1999/proyectoFP) - An Android app letterboxd-like to track games.
+- 🕹️ [GameTracker](https://github.com/RubenAC1999/proyectoFP) - An Android app, similar to Letterboxd, for tracking video games.
 - 🔧 [ALDComputerService](https://github.com/RubenAC1999/AldComputerService) - Desktop application developed in Swing to manage a computer repair workshop.
+- ♨︎ [Java CLI Proyects](https://github.com/RubenAC1999/java-cli-proyects) - Java CLI projects I created when I started learning Java to improve my skills.
 
 
