@@ -7,7 +7,7 @@
 
 &nbsp;***About me***
 
-Recently graduated in Multiplatform Application Development (FP DAM), passionate about backend development and software architecture. I enjoy learning independently and exploring new technologies from their foundations.
+Recently graduated in Multiplatform Application Development (FP DAM), specializing in backend development and software architecture with Java and Spring Boot. I enjoy building things from scratch, making conscious design decisions and understanding the reasoning behind them.
 
 <h4> Main Stack </h4>
 <span> 
